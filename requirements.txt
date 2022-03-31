@@ -1,8 +1,8 @@
-streamlit
-pandas
-base58
-matplotlib
-seaborn
-numpy
-yfinance
-lxml
+streamlit==1.8.1
+pandas==1.4.1
+base58==2.1.1
+matplotlib==3.5.1
+seaborn==0.11.2
+numpy==1.22.3
+yfinance==0.1.70
+lxml==4.8.0

@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import yfinance as yf
+import lxml
 
 #Using import ssl to make verification undone i.e. ssl certification is not verified.
 import ssl

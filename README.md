@@ -1,2 +1,2 @@
-# streamlit-10
+# Samuel-sp500streamlit
 sp500-app

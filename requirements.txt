@@ -1,4 +1,4 @@
-python==3.10.3
+python==3.9.10
 streamlit==1.8.1
 pandas==1.4.1
 base58==2.1.1
